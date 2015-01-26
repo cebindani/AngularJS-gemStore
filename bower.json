@@ -1,0 +1,21 @@
+{
+  "name": "AngularJS-gemStore",
+  "version": "0.0.0",
+  "description": "AngularJS Gem Store Tutorial",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "cebinDani"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
